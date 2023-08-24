@@ -41,7 +41,7 @@ planning/
 ## all config files
 src/config/
 ## all workspace files
-**/*-workspace
+.vscode/*.code-workspace
 ### VisualStudioCode ###
 .vscode/*      # Maybe .vscode/**/* instead - see comments
 !.vscode/settings.json
