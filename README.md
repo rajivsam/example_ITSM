@@ -8,7 +8,7 @@ The data setup for the project consists of two steps:
 
 2. Generating the report dataset. This is done by running the notebook called `generate_report_data.ipynb`. This too has a colab version
 
-If you have difficulties viewing the notebook on github, use ![nbviewer](https://nbviewer.org/), or, copy the url and run it on ![colab](https://colab.research.google.com/)
+If you have difficulties viewing the notebook on github, use [nbviewer](https://nbviewer.org/), or, copy the url and run it on [colab](https://colab.research.google.com/)
 
 ## Running it on your own
 
