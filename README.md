@@ -26,4 +26,4 @@ You can run it on your machine or environment by doing the following:
 
 7. You can run the reports from the `reports` directory by running `python -m tickets_resolved_report`. 
 
-[](images/itsm_dash_example.png)
+![](images/itsm_dash_example.png)
